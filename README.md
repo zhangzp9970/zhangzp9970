@@ -12,4 +12,6 @@
 - S. Zhang, J. Huang, **Z. Zhang**, and C. Qi, “Compromise Privacy in Large-Batch Federated Learning via Malicious Model Parameters,” in Algorithms and Architectures for Parallel Processing, W. Meng, R. Lu, G. Min, and J. Vaidya, Eds., in Lecture Notes in Computer Science. Cham: Springer Nature Switzerland, 2023, pp. 63–80. doi: [10.1007/978-3-031-22677-9_4](https://doi.org/10.1007/978-3-031-22677-9_4). [[Code]](https://github.com/skylineZSS/GIAvMP)
 - S. Zhang, J. Huang, **Z. Zhang**, P. Li, and C. Qi, “Compromise privacy in large-batch Federated Learning via model poisoning,” Information Sciences, vol. 647, p. 119421, Nov. 2023, doi: [10.1016/j.ins.2023.119421](https://doi.org/10.1016/j.ins.2023.119421). [[Code]](https://github.com/skylineZSS/GIAvMP)
 - C. Liang, J. Huang, **Z. Zhang**, and S. Zhang, “Defending against model extraction attacks with OOD feature learning and decision boundary confusion,” Computers & Security, vol. 136, p. 103563, Jan. 2024, doi: [10.1016/j.cose.2023.103563](https://doi.org/10.1016/j.cose.2023.103563).
+- P. Li, J. Huang, H. Wu, **Z. Zhang**, and C. Qi, “SecureNet: Proactive intellectual property protection and model security defense for DNNs based on backdoor learning,” Neural Networks, p. 106199, Feb. 2024, doi: [10.1016/j.neunet.2024.106199](https://doi.org/10.1016/j.neunet.2024.106199).
+
 
