@@ -4,7 +4,7 @@
 - 🌱 I’m currently persuing my Ph.D. degree on Cyber Science and Engineering in Southeast University, China.
 - 📫 How to reach me: zhangzp9970@outlook.com
 - 👯 I’m looking to collaborate on Artificial Intelligence Security and making differences!
-- 😄 Pronouns: zzp
+- 😄 Nickname: zzp
 - ✒️ Motto: Independent of Sprit, Free of Mind. (独立之精神，自由之思想)
 
 ## Papers📃
