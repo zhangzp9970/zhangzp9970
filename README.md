@@ -19,6 +19,8 @@
 - P. Li, J. Huang, H. Wu, **Z. Zhang**, and C. Qi, “SecureNet: Proactive intellectual property protection and model security defense for DNNs based on backdoor learning,” Neural Networks, p. 106199, Feb. 2024, doi: [10.1016/j.neunet.2024.106199](https://doi.org/10.1016/j.neunet.2024.106199).
 - Y. Zhang, J. Huang, P. Li, **Z. Zhang**, and C. Ding, “T-TNet: A dual-dependency trigger framework for active defense and hierarchical access control via multi-domain information fusion,” Journal of Systems Architecture, vol. 168, p. 103544, Nov. 2025, doi: [10.1016/j.sysarc.2025.103544](https://doi.org/10.1016/j.sysarc.2025.103544).
 - C. Ding, J. Huang, Q. Hao, **Z. Zhang**, and Y. Zhang, “Multimodal privacy-leaking image detection method based on multi-image correlation,” Neurocomputing, vol. 666, p. 132222, Feb. 2026, doi: [10.1016/j.neucom.2025.132222](https://doi.org/10.1016/j.neucom.2025.132222).
+- Y. Zhang, J. Huang, **Z. Zhang**, S. Zhang, C. Ding, and X. Chen, “Consensus Learning with Multi-Party Perturbation Triggers for Secure Model Access,” Proceedings of the AAAI Conference on Artificial Intelligence, vol. 40, no. 42, pp. 36084–36091, Mar. 2026, doi: [10.1609/aaai.v40i42.40925](https://doi.org/10.1609/aaai.v40i42.40925).
+- C. Liang, J. Huang, S. Zhang and **Z. Zhang**, "MDV: Resolving the Auxiliary Data Dilemma in Model Extraction Defenses," in IEEE Transactions on Information Forensics and Security, vol. 21, pp. 5360-5373, 2026, doi: [10.1109/TIFS.2026.3695426](https://doi.org/10.1109/TIFS.2026.3695426).
 
 
 
