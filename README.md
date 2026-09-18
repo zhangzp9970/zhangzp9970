@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate on Artificial Intelligence Security and making differences!
 - 😄 Nickname: zzp
 - ✒️ Motto: Independent of Sprit, Free of Mind. (独立之精神，自由之思想)
+- 🪪 [[CV](./Zeping_Zhang_CV.pdf)]
 
 ## Papers📃
 - **Z. Zhang**, X. Wang, J. Huang, and S. Zhang, “Analysis and Utilization of Hidden Information in Model Inversion Attacks,” IEEE Transactions on Information Forensics and Security, vol. 18, pp. 4449–4462, 2023, doi: [10.1109/TIFS.2023.3295942](https://doi.org/10.1109/TIFS.2023.3295942). [[Code](https://github.com/zhangzp9970/Amplified-MIA)]
